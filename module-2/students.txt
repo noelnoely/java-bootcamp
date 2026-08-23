@@ -1,0 +1,15 @@
+Alice;The Hobbit;J.R.R. Tolkien;310;1937
+Alice;1984;George Orwell;328;1949
+Alice;The Alchemist;Paulo Coelho;208;1988
+Alice;Harry Potter;J.K. Rowling;432;1997
+Alice;The Da Vinci Code;Dan Brown;689;2003
+Bob;Clean Code;Robert Martin;464;2008
+Bob;Effective Java;Joshua Bloch;416;2018
+Bob;The Pragmatic Programmer;Andrew Hunt;352;1999
+Bob;Design Patterns;Erich Gamma;395;1994
+Bob;Java Concurrency in Practice;Brian Goetz;432;2006
+Charlie;Dune;Frank Herbert;412;1965
+Charlie;Sapiens;Yuval Noah Harari;498;2011
+Charlie;Atomic Habits;James Clear;320;2018
+Charlie;The Martian;Andy Weir;369;2011
+Charlie;Project Hail Mary;Andy Weir;496;2021
